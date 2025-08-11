@@ -1,7 +1,0 @@
-# artefatos
-__pycache__/
-# banco local
-sistema.db
-# IDE
-.vscode/
-.idea/
