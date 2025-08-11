@@ -1,0 +1,5 @@
+# banco local
+sistema.db
+# IDE
+.vscode/
+.idea/
